@@ -1,0 +1,19 @@
+p {
+    margin: auto;
+    max-width: 500px;
+    text-align: center;
+    text-indent: -3rem;
+}
+
+p::first-letter {
+    font-family: cursive;
+    color: red;
+    font-size: 3rem;
+}
+
+p::first-line {
+    font-family: serif;
+    color: red;
+    font-size: 2rem;
+    font-weight: bolder;
+}
