@@ -1,0 +1,46 @@
+.one {
+    background-color: powderblue;
+    text-align: center;
+}
+
+.two {
+    text-align: end;
+}
+
+.three {
+    text-align: justify;
+}
+
+.four {
+    text-align: right;
+}
+
+.s1 {
+    color: red;
+    font-size: 2rem;
+    text-shadow: 5px 0px 4px darkred;
+}
+
+.s2 {
+    color: red;
+    font-size: 2rem;
+    text-shadow: 0px 5px 4px darkred;
+}
+
+.s3 {
+    color: red;
+    font-size: 2rem;
+    text-shadow: 5px 5px 0px darkred;
+}
+
+.s4 {
+    color: red;
+    font-size: 2rem;
+    text-shadow: 5px 5px 5px black;
+}
+
+.s5 {
+    color: red;
+    font-size: 2rem;
+    text-shadow: -5px -5px 4px darkred;
+}

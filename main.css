@@ -1,0 +1,23 @@
+body{
+    background-color: khaki;
+}
+
+header>img {
+    height: 50%;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 35%;
+}
+
+header>p {
+    font: 30px bold;
+    font-family: cursive;    text-align: center;
+    color: darkred;
+}
+
+.instruction{
+ font: 18px bold;
+list-style: square;
+}

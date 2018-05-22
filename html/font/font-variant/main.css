@@ -1,0 +1,38 @@
+.small-caps {
+    text-align: center;
+    font-weight: bolder;
+    font-variant: small-caps;
+}
+
+.all-small-caps {
+    font-variant: all-small-caps;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.captalize {
+    text-transform: capitalize;
+}
+
+a:link {
+    height: 20px;
+    width: 20PX;
+    background-color: black;
+    color: yellow;
+    border-radius: 25%;
+    border: 3px dotted darkblue;
+}
+
+a:hover {
+    height: 20px;
+    width: 20PX;
+    background-color: green;
+    border-radius: 25%;
+    border: 3px dotted darkblue;
+}
